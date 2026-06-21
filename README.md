@@ -36,8 +36,9 @@ FocusFlow is a desktop productivity timer built with JavaFX to help users manage
 ./mvnw clean javafx:run
 ```
 
-### Option 1: Using Maven Wrapper
-```bash
+### Option 2: IntelliJ IDEA
+
+```text
 1. Open IntelliJ IDEA
 2. Click File → Open
 3. Select the FocusFlow project folder
