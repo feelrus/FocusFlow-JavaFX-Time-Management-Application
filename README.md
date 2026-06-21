@@ -34,8 +34,10 @@ FocusFlow is a desktop productivity timer built with JavaFX to help users manage
 
 ```bash
 ./mvnw clean javafx:run
+```
 
-### Option 2: Using IntelliJ IDEA
+### Option 1: Using Maven Wrapper
+```bash
 1. Open IntelliJ IDEA
 2. Click File → Open
 3. Select the FocusFlow project folder
@@ -48,3 +50,4 @@ FocusFlow is a desktop productivity timer built with JavaFX to help users manage
 
 7. Click the Run (▶) button
    OR right-click → Run 'HelloApplication.main()'
+```
